@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NewNoteActivity" />
+        <activity android:name=".NewBlankActivity" />
+        <activity android:name=".IndividualStatusDisplayPage" />
+        <activity android:name=".AllNotesActivity"></activity>
     </application>
 
 </manifest>
